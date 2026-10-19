@@ -1,12 +1,12 @@
-# Staleness board — 2026-10-12
+# Staleness board — 2026-10-19
 
-1157 live skills · 0 carry a `verified:` date · 403 untouched for over 90 days (8 of them Production-tier).
+1157 live skills · 0 carry a `verified:` date · 719 untouched for over 90 days (52 of them Production-tier).
 
 | Age | Skills |
 |---|---|
 | ≤ 30 days | 0 |
-| 31–90 days | 754 |
-| 91–180 days | 388 |
+| 31–90 days | 438 |
+| 91–180 days | 704 |
 | > 180 days | 15 |
 
 ## Oldest 30 — review these first
@@ -28,20 +28,20 @@
 | `the-ruthless-editor` | stable | — | — | Infinity |
 | `the-school-appeal` | stable | — | — | Infinity |
 | `the-union-table` | stable | — | — | Infinity |
-| `360-feedback-template` | stable | 2026-06-08 | — | 126 |
-| `account-plan` | stable | 2026-06-08 | — | 126 |
-| `ai-ethics-review` | stable | 2026-06-08 | — | 126 |
-| `ai-product-canvas` | stable | 2026-06-08 | — | 126 |
-| `ambiguity-resolver` | stable | 2026-06-08 | — | 126 |
-| `api-versioning-strategy` | stable | 2026-06-08 | — | 126 |
-| `budget-variance-analysis` | stable | 2026-06-08 | — | 126 |
-| `capacity-planning` | stable | 2026-06-08 | — | 126 |
-| `change-management-plan` | stable | 2026-06-08 | — | 126 |
-| `chart-data-extractor` | stable | 2026-06-08 | — | 126 |
-| `cicd-playbook` | stable | 2026-06-08 | — | 126 |
-| `claude-superpowers` | stable | 2026-06-08 | — | 126 |
-| `clinical-case-summary` | stable | 2026-06-08 | — | 126 |
-| `community-management-playbook` | stable | 2026-06-08 | — | 126 |
-| `compliance-checklist` | stable | 2026-06-08 | — | 126 |
+| `360-feedback-template` | stable | 2026-06-08 | — | 133 |
+| `account-plan` | stable | 2026-06-08 | — | 133 |
+| `ai-ethics-review` | stable | 2026-06-08 | — | 133 |
+| `ai-product-canvas` | stable | 2026-06-08 | — | 133 |
+| `ambiguity-resolver` | stable | 2026-06-08 | — | 133 |
+| `api-versioning-strategy` | stable | 2026-06-08 | — | 133 |
+| `budget-variance-analysis` | stable | 2026-06-08 | — | 133 |
+| `capacity-planning` | stable | 2026-06-08 | — | 133 |
+| `change-management-plan` | stable | 2026-06-08 | — | 133 |
+| `chart-data-extractor` | stable | 2026-06-08 | — | 133 |
+| `cicd-playbook` | stable | 2026-06-08 | — | 133 |
+| `claude-superpowers` | stable | 2026-06-08 | — | 133 |
+| `clinical-case-summary` | stable | 2026-06-08 | — | 133 |
+| `community-management-playbook` | stable | 2026-06-08 | — | 133 |
+| `compliance-checklist` | stable | 2026-06-08 | — | 133 |
 
 To mark a skill verified, run it against a current model, confirm the output passes its own Quality Checks, and add `verified: YYYY-MM-DD` to its frontmatter.
